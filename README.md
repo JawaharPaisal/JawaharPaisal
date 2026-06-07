@@ -137,27 +137,6 @@ print(me.motto())
 
 ---
 
-<!-- ████████████████████████████████████████████████████ STATS ████████████████████████████████████████████████████ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=JawaharPaisal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github" height="170"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawaharPaisal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="170"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ████████████████████████████████████████████████████ STREAK ████████████████████████████████████████████████████ -->
 
 ## 🔥 Contribution Streak
@@ -299,13 +278,8 @@ print(me.motto())
 *"Build AI that thinks, learns, and scales."*
 <br/>
 **— Jawahar Paisal P**
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a1b27,100:0d1117&height=40&section=header&reversal=false" width="100%"/>
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,40:70a5fd,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,40:70a5fd,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
